@@ -1,0 +1,3 @@
+"Id","RecordTypeId","Type__c","Desc__c","AA_Object__c"
+"a028c00000WbaqhAAB","0128c000002EsHqAAK","TA","template","null"
+"a028c00000WbtjUAAR","0128c000002EsHvAAK","TB","instance","a028c00000WbaqhAAB"
